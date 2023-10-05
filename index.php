@@ -348,6 +348,8 @@ For clarity we re-use SQL & datastream idioms but have little in common with an 
                             </div>
                         </div>
                     </div>
+
+
                     <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -355,30 +357,29 @@ For clarity we re-use SQL & datastream idioms but have little in common with an 
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
-<div id="mc_embed_signup">
+<div hidden="true" id="mc_embed_signup">
     <form action="https://veloxfintech.us8.list-manage.com/subscribe/post?u=a34b6d730a5e753291f9f3604&amp;id=00e2bc722c&amp;f_id=005270e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
         <h2>Stay informed on accelerating</h2>
-        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
+        <div hidden="true" class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div hidden="true" class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
 	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
 </div>
-<div class="mc-field-group">
+<div hidden="true" class="mc-field-group">
 	<label for="mce-MMERGE6">Company  <span class="asterisk">*</span>
 </label>
 	<input type="text" value="" name="MMERGE6" class="required" id="mce-MMERGE6" required>
 	<span id="mce-MMERGE6-HELPERTEXT" class="helper_text"></span>
 </div>
 <div hidden="true"><input type="hidden" name="tags" value="5163029"></div>
-	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_a34b6d730a5e753291f9f3604_00e2bc722c" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div hidden="true" class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
@@ -396,6 +397,29 @@ For clarity we re-use SQL & datastream idioms but have little in common with an 
                             </div>
                         </div>
                         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4 mt-5">
+
+                        <!-- ateam -->
+                        <div class="teaser col">
+                          <a href='/articles/ateam_trading_tech_update'>
+                                              <div class="image position-relative">
+                        <div class='overlay position-absolute'></div>
+
+                                  <img src='articles/ateam_trading_tech_update/Final_Website.png' alt='' />
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Velox</div>
+                                  <div class='date'>September 2023</div>
+                                </div>
+                                <h3 class="headline">Reporting from the A-Team event on Buy & Build</h3>
+				<div class="excerpt-text">I was invited recently to join a panel on UI/UX in Trading. In preparation I wrote down what the differences are between UX & UI from my perspective, heres what I came up with</div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+
+
+                         <!-- FIX NY -->
                             <div class="teaser col">
 			      <a href='/articles/03Nov_Announce Ali FIX NY'>
                                 <div class="image position-relative">
@@ -414,6 +438,11 @@ For clarity we re-use SQL & datastream idioms but have little in common with an 
                                 </div>
                               </a>
                             </div>
+
+
+
+
+
                             <div class="teaser col">
 			      <a href='/articles/15Nov_Announcing the velox client portal'>
                                 <div class="image position-relative">
@@ -584,8 +613,114 @@ For clarity we re-use SQL & datastream idioms but have little in common with an 
                         </div>
                         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4 mt-5">
 
+                        <!-- how do vendors improve -->
+                        
+                        <div class="teaser col">
+			      <a href='/articles/how_do_vendors_improve_100323'>
+                                <div class="image position-relative">
+				  <div class='overlay position-absolute'></div>
 
+                                  <img src='articles/how_do_vendors_improve_100323/Final_Website.png' alt='' />
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Velox</div>
+                                  <div class='date'>03 Oct 2023</div>
+                                </div>
+				<h3 class="headline">How do vendors need to improve</h3>
+				<div class="excerpt-text">At the end of the day, vendors are going to be asked to do more, and some but not all of these efforts are going to be matched by increased fees. In addition, they are going to be required to provide services that they simply do not have the capability to perform currently.</p></div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                       
+                            <!-- what have vendors got right -->
+                            <div class="teaser col">
+			      <a href='/articles/vendors_what_have_they_got_right_092823'>
+                                <div class="image position-relative">
+				  <div class='overlay position-absolute'></div>
 
+                                  <img src='articles/vendors_what_have_they_got_right_092823/Final_Website.png' alt='' />
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Velox</div>
+                                  <div class='date'>26 Sep 2023</div>
+                                </div>
+				<h3 class="headline">So what have vendors been getting right ?</h3>
+				<div class="excerpt-text">But not everything is gloom and doom in the vendor landscape. Today we’ll look at the work vendors have done to drive client success and become a trusted partner. How have they been able to provide a stable, evolving technology offering for clients?</p></div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+
+                           <!-- what have vendors been lacking histoprically-->
+                           
+                            <div class="teaser col">
+			      <a href='/articles/what_have_vendors_been_historically_lacking'>
+                                <div class="image position-relative">
+				  <div class='overlay position-absolute'></div>
+
+                                  <img src='articles/what_have_vendors_been_historically_lacking/Final_Website.png' alt='' />
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Velox</div>
+                                  <div class='date'>19 Sep 2023</div>
+                                </div>
+				<h3 class="headline">Where have vendors historically been lacking?</h3>
+				<div class="excerpt-text">In this post, we’ll dive deeper into the root of some of those challenges and how they came to be. Have vendors sometimes painted themselves into a corner by “overpromising and underdelivering” as they juggle both client demands and the need to keep their own technology ahead of the competition?</p></div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                          
+                          <!-- wvendors at a crossroads-->
+                          
+                            <div class="teaser col">
+			      <a href='/articles/vendors_at_a_crossroad_092123'>
+                                <div class="image position-relative">
+				  <div class='overlay position-absolute'></div>
+
+                                  <img src='articles/vendors_at_a_crossroad_092123/Final_Website.png' alt='' />
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Velox</div>
+                                  <div class='date'>12 Sep 2023</div>
+                                </div>
+				<h3 class="headline">Cap MKts Tech is at a crossroads</h3>
+				<div class="excerpt-text">It’s hard to believe that it’s been over 50 years since Instinet and NASDAQ first launched electronic order quoting and routing, and over 40 since Bloomberg first launched the Terminal. By addressing industrywide challenges in trading and market data, these pioneering firms helped to sow the seeds for the rise of the capital markets solutions vendor.
+</p></div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                            
+                            
+                            <!--powering cash eq-->
+
+                            <div class="teaser col">
+			      <a href='/articles/velox_powering_cash_eq'>
+                                <div class="image position-relative">
+				  <div class='overlay position-absolute'></div>
+
+                                  <img src='articles/velox_powering_cash_eq/Final_Website.png' alt='' />
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Velox</div>
+                                  <div class='date'>12 Sep 2023</div>
+                                </div>
+				<h3 class="headline">Velox powers progress in Equity Trading</h3>
+				<div class="excerpt-text">Platforms power progress by “centralizing expertise but decentralizing innovation to the end client or user” (thank you thoughtworks).But the platforms that succeed have evolved to provide solutions for entire teams not just the core tasks that they were originally built for.
+</p></div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+
+                            
 
                             <div class="teaser col">
 			      <a href='/articles/tplus1_deadlines_need_dev_accelerators'>
