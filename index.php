@@ -612,7 +612,30 @@ For clarity we re-use SQL & datastream idioms but have little in common with an 
                             </div>
                         </div>
                         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4 mt-5">
+                              
+                        <!-- modernize to next gen -->
+                        
+                        <div class="teaser col">
+			      <a href='/articles/modernize_to_next_gen'>
+                                <div class="image position-relative">
+				  <div class='overlay position-absolute'></div>
 
+                                  <img src='articles/modernize_to_next_gen/Final_Website.png' alt='' />
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Velox</div>
+                                  <div class='date'>18 Oct 2023</div>
+                                </div>
+				<h3 class="headline">Modernize your way to a next generation technology capability</h3>
+				<div class="excerpt-text">   
+        It's obvious that after years of strain, the technology elastic has finally snapped at a lot of capital markets firms. The innovation and efficiency gains of modern tech vs last-generation builds are too great to ignore. Combine this with the agility required to navigate events over the past few years, and it's clear the industry can no longer ignore the risks of putting off the inevitable.
+        </p></div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                            
                         <!-- how do vendors improve -->
                         
                         <div class="teaser col">
