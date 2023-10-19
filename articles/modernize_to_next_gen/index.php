@@ -62,7 +62,7 @@ include("../../header.php");
                   <br><br>But there is another, even more powerful (yet often unsung), benefit: web service-oriented architecture 
                   also implies data-centric architecture. This means that your system natively supports collaboration as 
                   all data is stored only once. Since most capital markets systems work across teams, this gives a 
-                  assive productivity boost by collapsing workflows and eliminating the clumsy way data is shared 
+                  massive productivity boost by collapsing workflows and eliminating the clumsy way data is shared 
                   either internally between departments or externally with clients. 
                   
                   <br><br>Once the sugar rush of new eye candy subsides - <b>it's the material gains in improving your ability to 
