@@ -35,8 +35,9 @@ include("../../header.php");
                         </div>
                       </div>
                       <h1>
-                      Turbo-charging Innovation - How does the immovable object overcome the unstoppable force?
-                      </h1>
+                      Turbo-charging Innovation</h1>
+                      <h2>How does the immovable object overcome the unstoppable force?  </h2>
+                      
                       <p>
                       I was asked recently about the biggest challenge I faced during my 20+ years managing 
                       sales & trading technology in Capital Markets. My answer was managing the difference between 
@@ -55,8 +56,7 @@ include("../../header.php");
                       Data and the need for it to be treated as an asset to be managed, curated, and prized was 
                       not always recognized. As most "new" features were dependent on data from multiple sources, 
                       a lot of additional work was required to get the right data into the right state to be 
-                      useful and actionable.          
-                      </p>
+                      useful and actionable.</p>
                       <p>
                       <h3>Managing thick client applications.</h2></p>
                       <p>
@@ -69,28 +69,30 @@ include("../../header.php");
 
                       <p>Typically, architectures were functionally decomposed and implemented with a mixturefferent technologies, 
                       some in-house, some 3rd party. Each catered to a broad range of uses that were generallyeeded for the problem 
-                      at hand and getting them to "play nice" together was alwaysllenge.    </p>
+                      at hand and getting them to "play nice" together was alwaysllenge.</p>
                                                     
                       <p><h3>Difficulty adapting systems that were built to solve discretness problems.</h3></p> 
                       
-                      <p>Systems were sponsored and built to solve a discrete business probhey were not general. 
-                      Because the future was notoriously hard to predict this usually meantional effort to bend 
-                      systems to accommodate a new feature, creating "technica" in the process.     </p>                 
+                      <p>Systems were sponsored and built to solve a discrete business problem. They were not general. 
+                      Because the future was notoriously hard to predict this usually meant additional effort 
+                      to bend systems to accommodate a new feature, creating "technical debt" in the process.</p>                 
                       
                       <p><h3>A lack of good development tools. </h3> </p>
                       
-                      <p>A lack of development tools also meant app dev had a tendency to operate at too level, too much time 
-                      was needed to be spent reinventing solutions to thorny non-functional issues likermance and resilience 
-                      instead of wrbusiness code.                         
+                      <p>A lack of development tools also meant app dev had a tendency to operate at too low a 
+                      level, too much time was needed to be spent reinventing solutions to 
+                      thorny non-functional issues like performance and resilience instead of writing business code.</p>
                       
                       <p><h3>An inability to test efficiently. </h3></p>
                       
-                      <p>Finally, sales & trading was and is a business-critical function with punitiancial, reputational, 
-                      and legal penalties in the event of major failures. Systems just needed to work. Fhinking about testing 
-                      before building was also a concept tharecognized later.                      
+                      <p>Finally, sales & trading was and is a business-critical function with punitive financial, 
+                      reputational, and legal penalties in the event of major failures. 
+                      Systems just needed to work. Fully thinking about testing before building 
+                      was also a concept that was recognized later.</p>                     
                       
-                      <p>At Velox our mission is to provide an application platform to our c that maximizes their 
-                      ability to innovate rapidly. Would be great to hear your opinions on factors that you think are missing.  </p>
+                      <p>At Velox our mission is to provide an application platform to our 
+                      clients that maximizes their ability to innovate rapidly. Would be great to 
+                      hear your opinions on factors that you think are missing.</p>
 
                       <h2>
                       Find out more about velox and how we <strong>#buildfaster</strong> <a href=
