@@ -612,7 +612,32 @@ For clarity we re-use SQL & datastream idioms but have little in common with an 
                             </div>
                         </div>
                         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4 mt-5">
-                              
+                        <!-- supply and demand repost -->
+                        
+                        <div class="teaser col">
+			      <a href='/articles/supply_and_demand_repost'>
+                                <div class="image position-relative">
+				  <div class='overlay position-absolute'></div>
+
+                                  <img src='articles/supply_and_demand_repost/Final_Website.png' alt='' />
+                                </div>
+                                <div class="meta d-flex justify-content-between my-3">
+                                  <div class='author'>Article by Velox</div>
+                                  <div class='date'>18 Oct 2023</div>
+                                </div>
+				<h3 class="headline">How does the immovable object Overcome the unstoppable force to turbo charge innovation?</h3>
+				<div class="excerpt-text">          
+         I was asked recently about the biggest challenge I faced during my 20+ years managing sales & trading technology in 
+         Capital Markets. My answer was managing the difference between the front office business demand for 
+         technological innovation, such as new systems and upgrades and the ability of the front office technology 
+         department to supply it, quickly and affordably.
+        </p></div>
+                                <div class='d-flex justify-content-end mt-3'>
+                                  <div class='readmore'>Read More</div>
+                                </div>
+                              </a>
+                            </div>
+                                                         
                         <!-- modernize to next gen -->
                         
                         <div class="teaser col">
