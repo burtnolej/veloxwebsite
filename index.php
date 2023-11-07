@@ -612,8 +612,44 @@ For clarity we re-use SQL & datastream idioms but have little in common with an 
                             </div>
                         </div>
                         <div class="row row-cols-1 row-cols-lg-2 row-cols-xl-3 g-4 mt-5">
-                        <!-- supply and demand repost -->
                         
+                        <!-- legacy repost -->
+
+    <div class="teaser col">        
+    <!-- change the folder -->
+      <a href='/articles/why_become_legacy_repost'>
+      <div class="image position-relative">     
+      <!-- change the image -->
+        <div class='overlay position-absolute'></div><img src='articles/why_become_legacy_repost/Final_Website.png' alt=''>
+      </div>
+      <div class="meta d-flex justify-content-between my-3">
+        <div class='author'>
+          Article by Velox
+        </div>
+        <!-- change the date -->
+        <div class='date'>
+          7 Nov 2023
+        </div>
+      </div>                 
+      <!-- change the headline -->
+      <h3 class="headline">
+Why do systems become legacy and is it avoidable?
+      </h3>                      
+      <!-- change the excerpt -->
+      <div class="excerpt-text">
+The term legacy gets bandied around a lot in capital markets. Why is it that so many user-facing systems start out life as offensive weapons but end up as corporate millstones?
+The obvious reason is that the underlying technology becomes obsolete. There is not much that can be done about that but that is only a small part of the story. Much of today’s legacy was written in Java, so what gives?
+        <p></p>
+      </div>
+      <div class='d-flex justify-content-end mt-3'>
+        <div class='readmore'>
+          Read More
+        </div>
+      </div></a>
+    </div>
+
+				<!-- supply and demand repost -->
+
                         <div class="teaser col">
 			      <a href='/articles/supply_and_demand_repost'>
                                 <div class="image position-relative">
